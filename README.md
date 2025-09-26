@@ -6,7 +6,7 @@ Welcome to 100 Days of Deep Learning! This repository documents important concep
 
 - [x] 1. 100 Days of Deep Learning
 - [x] 2. What is Deep Learning? And Deep Learning v/s Machine Learning
-- [ ] 3. Types of Neural Networks, History of Deep Learning And Applications of Deep Learning
+- [x] 3. Types of Neural Networks, History of Deep Learning And Applications of Deep Learning
 - [ ] 4. What is a Perceptron?, Perceptron v/s Neuron And Perceptron Geometric Intuition
 - [ ] 5. Perceptron Tricks And How to Train a Perceptron
 - [ ] 6. Perceptron Loss Function [Hinge Loss, Binary Cross Entropy] | Sigmoid Function
