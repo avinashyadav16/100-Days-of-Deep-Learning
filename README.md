@@ -8,7 +8,7 @@ Welcome to 100 Days of Deep Learning! This repository documents important concep
 - [x] [2. What is Deep Learning? And Deep Learning v/s Machine Learning](./02%20-%20What%20is%20Deep%20Learning/)
 - [x] [3. Types of Neural Networks, History of Deep Learning And Applications of Deep Learning](./03%20-%20History,%20Types,%20and%20Applications%20of%20DL/)
 - [x] [4. What is a Perceptron?, Perceptron v/s Neuron And Perceptron Geometric Intuition](./04%20-%20What%20is%20a%20Perceptron/)
-- [ ] 5. Perceptron Tricks And How to Train a Perceptron
+- [x] [5. Perceptron Tricks And How to Train a Perceptron](./05%20-%20Perceptron%20Tricks%20And%20How%20to%20Train%20a%20Perceptron/)
 - [ ] 6. Perceptron Loss Function [Hinge Loss, Binary Cross Entropy] | Sigmoid Function
 - [ ] 7. Problems with Perceptron
 - [ ] 8. MLP Notation
